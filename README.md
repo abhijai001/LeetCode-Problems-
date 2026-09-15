@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhijai001/LeetCode-Problems-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abhijai001/LeetCode-Problems-/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhijai001/LeetCode-Problems-/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhijai001/LeetCode-Problems-/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhijai001/LeetCode-Problems-/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
